@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="21C52" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Event" representedClassName="Event" syncable="YES" codeGenerationType="class">
+        <attribute name="eventDate" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="eventTitle" attributeType="String"/>
+        <attribute name="isDone" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="Event" positionX="-355.760498046875" positionY="-222.3242187500001" width="128" height="88"/>
+    </elements>
+</model>
