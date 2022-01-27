@@ -10,13 +10,13 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is complete:
 
-[+] CoreData
-[+] Delegate
-[+] Protocol
-[+] Extension
-[+] UITableViewCell
-[+] UITableView
-[+] UIStoryboardSegue
+* [+] CoreData
+* [+] Delegate
+* [+] Protocol
+* [+] Extension
+* [+] UITableViewCell
+* [+] UITableView
+* [+] UIStoryboardSegue
 
 ## Video Walkthrough
 
